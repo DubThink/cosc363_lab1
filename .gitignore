@@ -1,0 +1,8 @@
+*.out
+*.exe
+*.obj
+CMakeCache.txt
+CMakeFiles
+CMakeFiles/*
+cmake_install.cmake
+Makefile
